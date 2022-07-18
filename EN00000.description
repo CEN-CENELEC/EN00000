@@ -5,4 +5,4 @@ Version = 0.1
 Authors = "John Doe; aut; jdoe@north.pol
    Erika Mustermann; cre; mustermann@north.pol"
 Description = This package contains validation Methods for usage in .NET applications
-License = GPL-3
+Licence = GPL-3
