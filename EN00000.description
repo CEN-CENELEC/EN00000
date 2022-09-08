@@ -1,7 +1,7 @@
 [Package]
 Package = EN00000.dll
 Title = EN00000 Validation Methods for .NET applications
-Version = 0.1
+Version = 0.4
 Authors = "John Doe; aut; jdoe@north.pol
    Erika Mustermann; cre; mustermann@north.pol"
 Description = This package contains validation Methods for usage in .NET applications
